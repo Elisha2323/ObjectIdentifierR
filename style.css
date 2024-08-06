@@ -1,0 +1,37 @@
+.heading{
+    width:80%;
+    font-size: 22px;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+body{
+    background-image: linear-gradient(#87CEEB,#FF6F91) ;
+}
+
+.name_of_objects{
+    color:#C49BDF;
+    background-color:#fefaf6;
+    font-family: Arial, Helvetica, sans-serif;
+   
+    
+}
+
+#camera{
+    color:rgb(0, 0, 0);
+    border-style: dashed ;
+   
+ 
+}
+
+#result{
+    width:350;
+    height:300;
+    border-style: dashed;
+}
+
+#result_object_accuracy{
+color:rgb(219, 219, 189);
+}
+
+#result_object_name{
+    color: rgb(219, 219, 189);
+}
